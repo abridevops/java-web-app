@@ -96,7 +96,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://34.220.245.221:4000/content/repositories/ebay-ci-release/</url>
+	      <url></url>
 	    </repository>
 	    
 	    <snapshotRepository>
